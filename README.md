@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9520bf4d-f2e2-4eb3-9213-023c66f8bf24" /># Hybrid Movie Recommender System
+# Hybrid Movie Recommender System
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Recommender%20Systems-brightgreen)
 ![TMDB](https://img.shields.io/badge/Data-TMDB%20API-orange)
